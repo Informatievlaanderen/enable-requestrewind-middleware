@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v1.1.0...v1.1.1) (2019-10-28)
+
+
+### Bug Fixes
+
+* upgrade build tools, move to fake 5 ([6aaa4f5](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/6aaa4f5))
+
 # [1.1.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v1.0.3...v1.1.0) (2019-08-21)
 
 
