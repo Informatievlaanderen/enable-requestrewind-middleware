@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v1.1.1...v2.0.0) (2019-11-22)
+
+
+### Code Refactoring
+
+* upgrade to netcoreapp30 ([dc61e0a](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/dc61e0a))
+
+
+### BREAKING CHANGES
+
+* Upgrade to .NET Core 3
+
 ## [1.1.1](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v1.1.0...v1.1.1) (2019-10-28)
 
 
