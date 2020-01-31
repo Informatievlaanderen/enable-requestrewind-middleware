@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.1.0...v2.2.0) (2020-01-31)
+
+
+### Features
+
+* upgrade netcoreapp31 and dependencies ([121c164](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/121c164135b182f9db4185806f3b70a54306ca71))
+
 # [2.1.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.0.0...v2.1.0) (2019-12-15)
 
 
