@@ -1,3 +1,10 @@
+## [2.2.1](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
+
+
+### Bug Fixes
+
+* bump to netcore 3.1.2 ([fe1d15d](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/fe1d15da332e77684f425a53bfa5e0cfb298b327))
+
 # [2.2.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.1.0...v2.2.0) (2020-01-31)
 
 
