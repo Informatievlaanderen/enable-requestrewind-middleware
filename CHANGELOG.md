@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.1...v2.2.2) (2020-03-02)
+
+
+### Bug Fixes
+
+* force build ([aebf713](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/aebf71359560e8fb1abb11d2e640b0617322a23d))
+
 ## [2.2.1](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.0...v2.2.1) (2020-03-02)
 
 
