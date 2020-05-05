@@ -1,3 +1,10 @@
+## [2.2.3](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.2...v2.2.3) (2020-05-05)
+
+
+### Bug Fixes
+
+* move to GH-actions ([a724486](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/a724486d5d84ac580c749e32021c3bb2d0638f0d))
+
 ## [2.2.2](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.1...v2.2.2) (2020-03-02)
 
 
