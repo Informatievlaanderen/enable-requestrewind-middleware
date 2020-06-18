@@ -1,3 +1,10 @@
+## [2.2.5](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.4...v2.2.5) (2020-06-18)
+
+
+### Bug Fixes
+
+* move to 3.1.5 ([a64de7c](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/a64de7ce7df199347f1a233c2c5c4520c333891a))
+
 ## [2.2.4](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.3...v2.2.4) (2020-05-18)
 
 
