@@ -1,3 +1,10 @@
+## [2.2.8](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.7...v2.2.8) (2020-11-18)
+
+
+### Bug Fixes
+
+* remove set-env usage in gh-actions ([1b67738](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/1b67738d2c71b6876298491cf519581e5265422e))
+
 ## [2.2.7](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.6...v2.2.7) (2020-09-21)
 
 
