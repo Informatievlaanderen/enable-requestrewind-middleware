@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v3.0.0...v4.0.0) (2024-03-07)
+
+
+### Features
+
+* move to dotnet 8.0.2 ([e27714a](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/e27714aae60a4d780780c6f3cb4caa4b6002023f))
+
+
+### BREAKING CHANGES
+
+* move to dotnet 8.0.2
+
 # [3.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v2.2.11...v3.0.0) (2022-03-24)
 
 

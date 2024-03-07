@@ -1,6 +1,6 @@
 {
   "name": "enable-requestrewind-middleware",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "Middleware component which enables rewinding of requests in order to help other middlewares.",
   "author": "Basisregisters Vlaanderen",
   "license": "MIT",
