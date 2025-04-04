@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
+
+
+### Code Refactoring
+
+* use renovate and nuget + update pipeline ([03f4929](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/03f4929675f371bf7bbe70785eac4521fce7339c))
+
+
+### BREAKING CHANGES
+
+* update to dotnet 9
+
 # [4.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v3.0.0...v4.0.0) (2024-03-07)
 
 
