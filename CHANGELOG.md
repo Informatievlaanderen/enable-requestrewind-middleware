@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v5.0.0...v5.1.0) (2026-06-02)
+
+
+### Features
+
+* update packages ([369ad0e](https://github.com/informatievlaanderen/enable-requestrewind-middleware/commit/369ad0e94f64fe2b21a1b26f9e5d9b71b4683f7f))
+
 # [5.0.0](https://github.com/informatievlaanderen/enable-requestrewind-middleware/compare/v4.0.0...v5.0.0) (2025-04-04)
 
 
